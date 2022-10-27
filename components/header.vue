@@ -2,11 +2,9 @@
 <template>
   <header class="header">
     <div>
-      <h3 class="title  float-md-start mb-0"><a href="/">Agency Report</a></h3>
+      <h3 class="title  float-md-start mb-0"><a href="/">Toward Better</a></h3>
       <nav class="menu nav nav-masthead justify-content-center float-md-end">
-        <!--<a class="nav-link" aria-current="page" href="/" :active="$route.path == 'index'">Home</a>
-        <a class="nav-link" href="/about" :active="$route.path == 'about'">About</a>
-        <a class="nav-link" href="#">Contact</a>-->
+        <!--<a class="nav-link" href="/about" :active="$route.path == 'about'">About</a>-->
       </nav>
     </div>
   </header>

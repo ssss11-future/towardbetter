@@ -6,29 +6,26 @@
       <Header />
 
       <main class="main px-3">
-        <h1>How much agency do you have with these businesses, and their products & services?</h1>
-        <p class="lead">Let's find out who is the real customer</p>
+        <h1>Toward better.</h1>
+        <p class="lead">Toward better technology.</p>
+        <p class="lead">Toward better education.</p>
+        <p class="lead">Toward better society.</p>
         
+        <p>Toward better oversees multiple projects working towards aligned goals</p>
 
-         <vuetable ref="vuetable"
-          :fields="['Company', 'Product', 'Rating']"
-          :api-mode="false"
-          :data="localData">
-          </vuetable>
-
-        <table>
-          <thead>
-            <th>Company</th>
-            <th>Product/Service</th>
-            <th>Rating (100)</th>
-          </thead>
-          <tbody>
-            <tr>
-              <td>Google</td>
-              <td>Search</td>
-              <td>30</td>
-          </tbody>
-        </table>
+        <h3>Projects</h3>
+        <ul>
+          <li><u>Education</u></li>
+          <li>Web3 technology series</li>
+          <li>User agency series</li>
+          <li>Society and law series</li>
+          <li>Agency report</li>
+          <li><u>Technology</u></li>
+          <li>Webcastle</li>
+          <li>Transparensee</li>
+          <li>Rugreport</li>
+          <li>Rugrevive</li>
+        </ul>
       </main>
 
       <Footer />
