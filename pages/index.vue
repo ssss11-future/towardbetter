@@ -6,10 +6,9 @@
       <Header />
 
       <main class="main px-3">
+        <b-img src="https://picsum.photos/1024/400/?image=41" fluid alt="Responsive image"></b-img>
         <h1>Toward better.</h1>
-        <p class="lead">Toward better technology.</p>
-        <p class="lead">Toward better education.</p>
-        <p class="lead">Toward better society.</p>
+        <p class="lead">Technology. Education. Society.</p>
         
         <p>Toward better oversees multiple projects working towards aligned goals</p>
 
